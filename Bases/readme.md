@@ -26,5 +26,8 @@
 <p>
 NaN -> es considerado un numero en java script. Pero surge esta error cuando se quiere convertir un string('32A') a un numero
 
-
+el casteo
+(varibale  as string) cambiamos el tipo de dato a string
+otrab forma de casteo
+(<number> variable)  
 </p>
