@@ -7,4 +7,4 @@
     };
     hero.age = 50;
     console.log(msg);
-})();
+});
