@@ -19,3 +19,4 @@
         powers: ['Super velocidad', 'viaje en el tiempo']
     };
 })();
+//# sourceMappingURL=types.js.map

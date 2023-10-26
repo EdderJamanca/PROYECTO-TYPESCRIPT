@@ -10,3 +10,4 @@
     console.log(typeof retornadoNombre());
     console.log(typeof funcionBasica());
 })();
+//# sourceMappingURL=function.js.map

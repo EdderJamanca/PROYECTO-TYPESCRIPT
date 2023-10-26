@@ -5,3 +5,4 @@
     }
     console.log(funcionRest('edder', 'ivan', 'lucas', 'joel'));
 })();
+//# sourceMappingURL=args-rest.js.map

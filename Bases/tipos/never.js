@@ -10,3 +10,4 @@
     error('');
     console.log('Hola mundo');
 })();
+//# sourceMappingURL=never.js.map
